@@ -29,7 +29,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/0dVw0A6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Roles come with different permissions and access that can be assigned to different employees.
+Roles come with different permissions and access that can be assigned to different agents.
 </p>
 <br />
 
